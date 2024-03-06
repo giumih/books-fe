@@ -1,0 +1,47 @@
+Take-Home Assignment: Personal Library Manager
+
+Overview
+
+Develop a Personal Library Manager application using React.js, TypeScript, SWR, axios, formik, and MUI 5. This app will allow users to manage a collection of books, including adding new books, viewing a list, and updating book details. A mock node.js server is attached.
+
+Requirements
+
+Book Management Features:
+
+Implement features to add, view, update, and delete books.
+
+Each book should have attributes like title, author, genre, and a brief description.
+
+Form Handling:
+
+Use formik (useFormik hook) for handling form submissions for adding and updating books.
+
+Data Fetching and Caching:
+
+Use SWR for data fetching, caching, and state management.
+
+Implement axios for making API requests to the provided mock server.
+
+UI Components with MUI 5:
+
+Build the user interface using Material UI (MUI 5) components. Ensure the UI is clean and user-friendly.
+
+Include components like tables or lists for displaying books, text fields for forms, buttons, grid or stack for layout.
+
+TypeScript Integration:
+
+Apply TypeScript throughout the application for type-checking and improving code quality.
+
+Responsive Design:
+
+Ensure the app is responsive and works well on different screen sizes.
+
+Documentation:
+
+Provide a README file with instructions on setting up and running the application.
+
+Deliverables
+
+Source code on a GitHub repository.
+
+Instructions for setting up and running the application.
